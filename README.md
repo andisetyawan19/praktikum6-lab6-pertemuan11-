@@ -252,7 +252,7 @@ Pada soal pertama saya akan coba untuk menunjukan salah satu syntax diatas yang 
 ```
 Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawal dan memasukan ***'T'*** pada kolom yang tersedia dan kalian run, maka akan mendapat output seperti ini
 
-![gambar 2](img/tambah%20data.png.png)
+![gambar 2](img/tambah%20data.png)
 ________________________________________________________________________________________________________________________
 ## SOAL 2 (TAMPILKAN DATA)
 Di soal kedua, saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Tampilkan Data'** seperti inilah syntax nya.
@@ -275,7 +275,7 @@ Di soal kedua, saya akan coba untuk menunjukan salah satu syntax diatas yang nan
 ```
 Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawal dan memasukan ***'L'*** pada kolom yang tersedia dan kalian run, maka akan mendapat output seperti ini
 
-![gambar 3](img/tampilkan_data.png.png)
+![gambar 3](img/tampilkan_data.png)
 ________________________________________________________________________________________________________________________
 ## SOAL 3 (HAPUS DATA)
 Di soal ketiga, saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Hapus Data'** seperti inilah syntax nya.
@@ -309,7 +309,7 @@ Di soal ketiga, saya akan coba untuk menunjukan salah satu syntax diatas yang na
 ```
 Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawal dan memasukan ***'H'*** pada kolom yang tersedia dan kalian run, maka akan mendapat output seperti ini
 
-![gambar 4](img/hapus_data.png.png)
+![gambar 4](img/hapus_data.png)
 ________________________________________________________________________________________________________________________
 ## SOAL 4 (UBAH DATA)
 Pada soal keempat, saya akan coba untuk menunjukan salah satu syntax diatas yang nantinya akan menghasilkan menu pilihan **'Ubah Data'** seperti inilah syntax nya.
@@ -387,7 +387,7 @@ Pada soal keempat, saya akan coba untuk menunjukan salah satu syntax diatas yang
 ```
 Jadi kesimpulannya jika kalian menggunakan semua syntax yang saya tunjukan diawal dan memasukan ***'U'*** pada kolom yang tersedia dan kalian run, maka akan mendapat output seperti ini
 
-![gambar 5](img/ubah_data.png.png)
+![gambar 5](img/ubah_data.png)
 ________________________________________________________________________________________________________________________
 ## NOTE: SYNTAX SATUAN DIATAS AKAN ERROR SAAT DI RUN, JIKA KALIAN TIDAK MENGINPUTNYA SEMUA! MAKA INPUTLAH SEMUA SYNTAX DIAWAL!!
 ________________________________________________________________________________________________________________________
@@ -395,7 +395,7 @@ ________________________________________________________________________________
 ## FLOWCHART
 Dan yang terakhir adalah saya diminta untuk membuat sebuah flowchart dari data-data yang sudah saya masukan diatas.
 
-![gambar 6](img/FLOW.png.png)
+![gambar 6](img/FLOW.png)
 
 Dan kurang lebih seperti itulah bentuk flowchart yang sudah sesuai dengan data-data diatas.
 ________________________________________________________________________________________________________________________
